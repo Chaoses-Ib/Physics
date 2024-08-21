@@ -10,8 +10,11 @@
 
 ## [Time](Time/README.md)
 - [Chronometry](Time/Chronometry/README.md)
+  - [International Atomic Time (TAI)](Time/Chronometry/TAI.md)
   - [Coordinated Universal Time (UTC)](Time/Chronometry/UTC.md)
   - [Unix Time](Time/Chronometry/Unix.md)
+- [Measurement Systems](Time/Measurement/README.md)
+  - [Time Zones](Time/Measurement/Zones.md)
 - [Calendars](Time/Calendars/README.md)
 - [Chronology](Time/Chronology/README.md)
 - [Libraries](Time/Libraries.md)
