@@ -8,6 +8,9 @@
 - [Batteries](Electromagnetism/Batteries/README.md)
   - [Battery Sizes](Electromagnetism/Batteries/Battery%20Sizes.md)
 
+## [Thermodynamics](Thermodynamics/README.md)
+- [Air Conditioning](Thermodynamics/Air%20Conditioning/README.md)
+
 ## [Time](Time/README.md)
 - [Chronometry](Time/Chronometry/README.md)
   - [International Atomic Time (TAI)](Time/Chronometry/TAI.md)
