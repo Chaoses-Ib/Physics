@@ -5,6 +5,8 @@
   - [Zeroing](Mechanics/Ballistics/Zeroing.md)
 
 ## Electromagnetism
+- [Electrical Wiring](Electromagnetism/Wiring/README.md)
+  - [Plugs and Sockets](Electromagnetism/Wiring/Plugs.md)
 - [Batteries](Electromagnetism/Batteries/README.md)
   - [Battery Sizes](Electromagnetism/Batteries/Battery%20Sizes.md)
 
