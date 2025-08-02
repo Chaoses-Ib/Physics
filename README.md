@@ -10,6 +10,10 @@
 - [Batteries](Electromagnetism/Batteries/README.md)
   - [Battery Sizes](Electromagnetism/Batteries/Battery%20Sizes.md)
 
+## [Optics](Optics/README.md)
+- [Lighting](Optics/Lighting/README.md)
+  - [Computer Monitor Lighting](Optics/Lighting/Monitor.md)
+
 ## [Thermodynamics](Thermodynamics/README.md)
 - [Air Conditioning](Thermodynamics/Air%20Conditioning/README.md)
 
