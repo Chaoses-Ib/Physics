@@ -9,6 +9,9 @@
 [其实。。BenQ 的屏幕挂灯是不是放反了或者考虑增加背光 - V2EX](https://www.v2ex.com/t/968469)
 
 ## Monitor light bars
+- 桌面屏幕反射
+  - 自身的无线控制器也可能会，所以最好设计成斜的
+
 - Dual monitors
 
   [Dual monitor setup, Should I purchase one or 2 Benq Screenbar Halos? : r/BenQ](https://www.reddit.com/r/BenQ/comments/xnzkkf/dual_monitor_setup_should_i_purchase_one_or_2/)
@@ -23,7 +26,6 @@
 [屏幕挂灯属不属于智商税产品？ - V2EX](https://www.v2ex.com/t/949054)
 
 [五大场景实测，你真的需要一盏屏幕挂灯吗？](https://www.youtube.com/watch?v=OAT-IZwtARU)
-- 桌面屏幕反射
 
 Brands:
 - BenQ
@@ -47,6 +49,8 @@ Brands:
       - 可控制多盏灯
 
       [\[請益\] Benq Screenbar Halo 無線控制器 - 看板 PC\_Shopping - 批踢踢實業坊](https://www.ptt.cc/bbs/PC_Shopping/M.1679477235.A.3C7.html)
+
+      [Reverse Engineering BENQ Screenbar Halo 204GHz remote : r/RTLSDR](https://www.reddit.com/r/RTLSDR/comments/18mxaej/reverse_engineering_benq_screenbar_halo_204ghz/)
     - backlight: 三区背光设计
     - 二手 550元
 
@@ -75,7 +79,17 @@ Brands:
     - Lighting coverage: 85cm x 50cm
     - Wireless controller: USB Type-C
       - 可控制多盏灯
+      - 自动调整亮度需要暂时熄灯，不支持定时触发
+      - 2.4 GHz，控制距离不短，可当作无线台灯使用
+      - 易沾指纹
+      - 单独购买: 500元
+    - 本体比较长和宽，会遮挡一定视线
+    - 或多或少还是会照到屏幕上一些光，夜间会导致灰尘比较显眼；底部照射范围外也无法保持黑暗
     - 1400~1300元，4年质保
+      - [ScreenBar Halo 2 保固資訊｜BenQ 台灣](https://www.benq.com/zh-tw/support/downloads-faq/products/lighting/screenbar-halo2/warranty.html)
+      - China: 明基智能照明 小程序
+
+    > Designed for monitor worksapce
 
     相比 Pro，虽然在 lighting 上的区别只是多了 bias lighting，但是这和 downlighting 是集成的，还可以多灯联动，相比只有主灯的 Pro 溢价小了不少。尽管 wireless controller 可能更容易故障。
 
@@ -92,6 +106,8 @@ Brands:
     > HALO带遥控器，说真的，我觉得没有pro集成在上面的好 哈哈哈 不过halo2 有背景灯，看你需不需要了，主灯差距没多大。
 
     [BenQ ScreenBar Halo 2: Worth the Upgrade?](https://www.youtube.com/watch?v=gQPAuG3qMsk)
+
+    [BenQ ScreenBar Halo 2の使い勝手が最高すぎて僕の写真編集にはこれが必須です。【モニターライト】](https://www.youtube.com/watch?v=QlDyKSseXns)
 
     [Is a ScreenBar Halo V2 Coming Soon? : r/BenQ](https://www.reddit.com/r/BenQ/comments/1gz52ky/is_a_screenbar_halo_v2_coming_soon/)
 
