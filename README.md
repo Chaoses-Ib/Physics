@@ -25,6 +25,7 @@
   - [Coordinated Universal Time (UTC)](Time/Chronometry/UTC.md)
   - [Unix Time](Time/Chronometry/Unix.md)
   - [ISO 8601](Time/Chronometry/ISO%208601.md)
+  - [Parsing](Time/Chronometry/Parsing.md)
 - [Measurement Systems](Time/Measurement/README.md)
   - [Time Zones](Time/Measurement/Zones.md)
 - [Calendars](Time/Calendars/README.md)
