@@ -3,9 +3,40 @@
 
 > A freezer is a specialized refrigerator, or portion of a refrigerator, that maintains its contents’ temperature below the freezing point of water.
 
+## Temperature
 > The United States Food and Drug Administration recommends that the refrigerator be kept at or below 4 °C (40 °F) and that the freezer be regulated at −18 °C (0 °F).
 
+容声 BD/BC: 1~8
+- 1~3: -2~-10℃
+- 3~4: -2~-18℃
+- 4~7: -12~-25℃
+  - 4: 24℃ -> -16℃
+  - 5: 25℃ -> -20℃
+- 8: ≤-18℃
+
+容声 BCD: 0~7
+- 1~3: -9~-22 ℃; 无温度补偿 8~-1℃, 温度补偿 10~3℃
+- 4~6: -17~-30 ℃; 无温度补偿 2~-5℃, 温度补偿 4~-3℃
+- 7: -25~-30 ℃; 无温度补偿 -5~-7℃, 温度补偿 -2~-4℃
+
+尊贵 BCD:
+- 2.5: 22℃ -> -10℃
+
+[What temperature should a refrigerator and a freezer be at? : r/Cooking](https://www.reddit.com/r/Cooking/comments/lgeisx/what_temperature_should_a_refrigerator_and_a/)
+
+[What temp level is your fridge/freezer, and why? : r/AskCulinary](https://www.reddit.com/r/AskCulinary/comments/sgod9d/what_temp_level_is_your_fridgefreezer_and_why/)
+
+## Defrosting
+[Wikipedia](https://en.wikipedia.org/wiki/Defrosting_(refrigeration))
+
 [Auto-defrost - Wikipedia](https://en.wikipedia.org/wiki/Auto-defrost)
+
+## Cleaning
+[如何清理冰箱: 12 步骤](https://zh.wikihow.com/%E6%B8%85%E7%90%86%E5%86%B0%E7%AE%B1)
+
+[【提示】用了一个夏天的冰箱，应该这样清洗→\_澎湃号-政务\_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_20184303)
+
+[如何清潔保養電冰箱 - 常見問答 - Panasonic 台灣](https://pstw.panasonic.com.tw/FAQ/Article/184)
 
 ## Brands
 [Which is the best Chinese fridge maker? Hisense? Haier? Midea? Xiaomi? : r/China](https://www.reddit.com/r/China/comments/1cfsw2u/which_is_the_best_chinese_fridge_maker_hisense/)
@@ -22,6 +53,7 @@
   [容声和海信冰箱哪个好？冰箱买海信还是容声-不二评测](http://www.buerpingce.com/8434.html)
 - 海信
 - 美的
+- [Samsung](https://www.samsung.com/hk/refrigerators/)
 
 [618 想买台冰箱，什么牌子的好？ - V2EX](https://v2ex.com/t/568145)
 
