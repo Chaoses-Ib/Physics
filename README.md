@@ -15,6 +15,10 @@
   - [Computer Monitor Lighting](Optics/Lighting/Monitor.md)
 
 ## [Thermodynamics](Thermodynamics/README.md)
+- Heating
+  - [Fryers](Thermodynamics/Heating/Fryers/README.md)
+  - [Ovens](Thermodynamics/Heating/Ovens/README.md)
+    - [Convection Ovens](Thermodynamics/Heating/Ovens/Convection.md)
 - Cooling
   - [Refrigerators](Thermodynamics/Cooling/Refrigerators.md)
 - [Air Conditioning](Thermodynamics/Air%20Conditioning/README.md)
