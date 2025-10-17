@@ -30,7 +30,11 @@ A **convection oven** (also known as a **fan-assisted oven** or simply a **fan o
 
 [妈妈再也不用担心我每天吃外卖啦------料理小白榨干空气炸锅的所有价值 - 什么值得买](https://post.smzdm.com/p/azx5g9m0/)
 
-### 美的
+### Brands
+Discussions:
+- 2013-11 [有用过空气炸锅的没？感觉如何？飞利浦的是不是比较好，现在牌子好多，有些卖家是把光波炉描绘成空气炸锅卖 - V2EX](https://v2ex.com/t/91111)
+
+#### 美的
 ![](https://img.alicdn.com/imgextra/i4/2209883067676/O1CN01maFZuk26Zf2BLV8C8_!!2209883067676.jpg)  
 ![](https://img.alicdn.com/imgextra/i2/2209883067676/O1CN019FIARM26Zf2EUzeeg_!!2209883067676.jpg)
 
