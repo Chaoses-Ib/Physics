@@ -18,7 +18,11 @@ An **oven** is a tool which is used to expose materials to a hot environment. Ov
 
 [\[不懂就问\] 应该先买烤箱还是先买微波炉？ - V2EX](https://v2ex.com/t/975578)
 
+[喜欢吃各种烤的脆脆香香的东西，买烤箱合适还是空气炸锅合适 - V2EX](https://origin.v2ex.com/t/897315)
+
 [微波炉、光波炉、蒸波炉该选谁？ - 知乎](https://zhuanlan.zhihu.com/p/60825616)
+
+[新房要买电器了，各位老哥有什么可推荐的电器吗？ - V2EX](https://www.v2ex.com/t/487771)
 
 ### 微波炉烤箱一体机
 - 东芝

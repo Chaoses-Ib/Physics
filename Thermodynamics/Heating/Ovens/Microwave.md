@@ -14,7 +14,26 @@
 
 [微波爐頂部不能隨便放東西！背後隱藏這兩大風險！ - ShareHub](https://koc.hktvmall.com/post/940de512bb354243b01421c895694631/%E5%BE%AE%E6%B3%A2%E7%88%90%E9%A0%82%E9%83%A8%E4%B8%8D%E8%83%BD%E9%9A%A8%E4%BE%BF%E6%94%BE%E6%9D%B1%E8%A5%BF%EF%BC%81%E8%83%8C%E5%BE%8C%E9%9A%B1%E8%97%8F%E9%80%99%E5%85%A9%E5%A4%A7%E9%A2%A8%E9%9A%AA%EF%BC%81/H5112001_S_1190713)
 
+## Components
+[拆个微波炉，分析一下电路 - 知乎](https://zhuanlan.zhihu.com/p/606467681)
+
 ## Power
+- Household: 700~800W
+- Commercial: 800~1800~3000W
+  - Usually with inverter
+
+[Why aren't microwave ovens for the home more powerful? : r/AskUK](https://www.reddit.com/r/AskUK/comments/1chnki1/why_arent_microwave_ovens_for_the_home_more/)
+> Microwave ovens for home use in the UK seem to be in the range of 700 or 800 watts (for comparison, a cheap microwave in the USA is usually 1200 watts, and there are 1KW+ microwaves available here for commercial use). Why aren't home microwaves more powerful?
+
+> Because Americans are weirdos who use microwaves for heating water. We don't.
+> 
+> 900W is already too powerful to heat food evenly, it takes time for the heat to spread out. Any faster would just lead to more spots being burned and is pointless in the UK. Americans don't have kettles so would probably rather have the extra power to heat water faster.
+
+> I have a 1000W microwave due to it being a combi oven, I never use it that high as it just blows things up and makes a mess of the microwave. I whack it on medium at 700W instead.
+
+[700w Microwave Enough? : r/cookingforbeginners](https://www.reddit.com/r/cookingforbeginners/comments/113weqb/700w_microwave_enough/?show=original)
+> Usually the maximum power is too much for heating solid or thick substances, where the heat doesn't manage to conduct through the food item before the edges are crisped. Because a basic microwave works with on/off cycles, it still applies full power during some intervals even when "reduced". I would only use maximum power to blast liquids, which actually may be the primary use for your microwave and will now take longer.
+
 [家用微波爐瓦數徹底解碼：高效選購與烹飪指南 - 烽雅空間美學](https://www.foyalifedesign.com/2025/01/19/%E5%AE%B6%E7%94%A8%E5%BE%AE%E6%B3%A2%E7%88%90%E7%93%A6%E6%95%B8/)
 
 [如何換算微波爐加熱時間？日本推特瘋傳的數學小教室 - 愛料理生活誌](https://blog.icook.tw/posts/138455)
@@ -23,7 +42,29 @@
 
 [功率1000w和700w的微波炉有什么区别? - 知乎](https://www.zhihu.com/question/292564182)
 
+### Inverter
+Non-inverter / Inverter (定频 / 变频)
+
+> A conventional microwave oven has only one output power level, with intermediate power settings achieved using duty-cycle modulation, switching the magnetron on and off every few seconds, with more time on for higher settings. An *inverter*-type unit, however, can effectively sustain lower power output instead of switching full power on and off, heating food more evenly. Apart from offering superior cooking ability, these microwaves are generally more energy-efficient.
+
+- High power (usually >700W) ovens tend to use inverter
+
+[Found a microwave that actually runs at 50% power : r/engineering](https://www.reddit.com/r/engineering/comments/wwateu/found_a_microwave_that_actually_runs_at_50_power/)
+
+[IsItBullshit: Microwave "inverter" technology? : r/IsItBullshit](https://www.reddit.com/r/IsItBullshit/comments/xoonjx/isitbullshit_microwave_inverter_technology/)
+> Inverter means it uses a solid state switching power supply to control the magnetron vs the old steel core transformer and a relay. An older microwave can only switch the full power ON/OFF with slow (10s of seconds) variable duty cycle (ratio of on/off time) whereas the inverter can vary the output power in smaller gradients which has a less detrimental effect to foods with thin skins or constrained areas (like eggs). The result is less popping, bursting, spitting and splatter, fewer hot spots. The microwave also weighs considerably less as the transformers are much smaller due to the higher operating frequency.
+
+[Is an inverter microwave worth it? Do they have problems or last as long? : r/Cooking](https://www.reddit.com/r/Cooking/comments/l0qxpb/is_an_inverter_microwave_worth_it_do_they_have/)
+> Most people probably rarely use lower power settings on microwaves. Most people buy them to quickly heat food. So for reheating leftovers or whatever, the inverter offers no benefit. It would be useful for melting chocolate and stuff like that.
+
+[MarsDIY: 機械式微波爐火力開關的控制原理](https://marsdiy.blogspot.com/2020/01/blog-post_21.html)
+
+[\[問題\] 微波爐定頻與變頻的問題 - 看板 E-appliance - 批踢踢實業坊](https://www.ptt.cc/bbs/E-appliance/M.1701593539.A.9D1.html)
+> 買定頻轉盤式的就好,電子的蟑螂住進去,機板很快就GG了
+
 ## Uneven heating
+[Why don't microwave ovens vary their frequency to eliminate hot spots? : r/askscience](https://www.reddit.com/r/askscience/comments/7pbqxi/why_dont_microwave_ovens_vary_their_frequency_to/)
+
 > Microwave ovens are frequently used for reheating leftover food, and bacterial contamination may not be repressed if the microwave oven is used improperly. If safe temperature is not reached, this can result in foodborne illness, as with other reheating methods. While microwave ovens can destroy bacteria as well as conventional ovens can, they cook rapidly and may not cook as evenly, similar to frying or grilling, leading to a risk of some food regions failing to reach recommended temperatures. Therefore, a standing period after cooking to allow temperatures in the food to equalize is recommended, as well as the use of a food thermometer to verify internal temperatures.
 
 Solutions:
@@ -70,7 +111,8 @@ Solutions:
   - P70D20P-NW: 700W, 240元
     - 32.9 x 31.5 x 21, 外 45.2 x 36 x 26.2
   - P80D20CN1PV-D2(C0): 800W, 245元
-    - 45.2 x 37 x 26.2
+    - 外 45.2 x 37 x 26.2
+    - 变频、电子控制
     - 一级能效
 
   [扒完格兰仕全网微波炉/光波炉，200-2000元值得买的机型都在这了\_微波炉\_什么值得买](https://post.smzdm.com/p/avwm9mem/)
